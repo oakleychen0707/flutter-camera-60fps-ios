@@ -6,11 +6,11 @@ Creating a video recording application with Flutter camera package that allows s
 
 ### Chinese Version:
 
-使用 Flutter Camera 套件實現了一款支持設置解析度及高幀率（60fps 和 120fps）的錄影 App。
+使用 Flutter Camera 套件實現了一款可以設置解析度及高幀率（60fps 和 120fps）的錄影 App。
 
-- **系統支持**：目前僅支持 iOS。
+- **系統支持**：目前只支援 iOS。
 
-- **格式支持**：該應用支持以下 7 種錄影格式：
+- **格式支持**：該應用可以設定以下 7 種錄影格式：
 
   - 720p/30fps
   - 1080p/30fps
